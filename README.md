@@ -8,5 +8,4 @@ Com funçôes de Criação, Consulta, Atualização e Deletar.
 ![localhost_5000_Usuarios_Create](https://user-images.githubusercontent.com/65605919/90548579-8bb30a80-e163-11ea-863b-e4cc64edfd3d.png)
 
 ## Funcionalidades de Atualizaçâo e Deletar
-![localhost_5000_Usuarios_Create](https://user-images.githubusercontent.com/65605919/90548579-8bb30a80-e163-11ea-863b-e4cc64edfd3d.png)
-
+![localhost_5000_Usuarios](https://user-images.githubusercontent.com/65605919/90548985-31ff1000-e164-11ea-9deb-9b4502cc0990.png)
